@@ -18,26 +18,31 @@ function asesert(a,b) {
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código: 
+   console.log(1+2);
 }
 
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
+   console.log(3-5);
 }
 
 function divide(x, y) {
    // Retorna el resultado de su división.
+   console.log(7/8);
    // Tu código:
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
+    console.log(5*23);
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
+    console.log(43%12);
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
