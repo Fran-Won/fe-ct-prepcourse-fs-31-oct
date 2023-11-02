@@ -7,7 +7,7 @@ function devolverString(string) {
   function reverseString(string) {
 return string.split("").reverse().join("")
 }
-console.log(asesert(reversestring(11>8))) 
+console.log(reversestring(11>8)) 
 
 function asesert(a,b) {
     return a===b;
