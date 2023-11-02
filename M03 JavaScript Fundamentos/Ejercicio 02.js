@@ -7,11 +7,6 @@ function devolverString(string) {
   function reverseString(string) {
 return string.split("").reverse().join("")
 }
-console.log(reversestring(11>8)) 
-
-function asesert(a,b) {
-    return a===b;
-}
 
 // ⛔️ "X" e "Y" son números.
 
